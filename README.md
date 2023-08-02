@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zhenggaohan64
+- 👀 I’m interested in Software Engineering student honing skills in Kotlin. 
+- 🌱 I’m currently learning Enthusiastic about Android development and crafting innovative mobile apps.
